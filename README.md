@@ -1,12 +1,12 @@
 # WalmartSalesAnalysis
-ABOUT THE PROJECT 
+**ABOUT THE PROJECT **
 The main aim of the project is to analyze the sales of Walmart  and behavior of customer. The aim of the project is also to study how sales strategies can be improved and optimized. The dataset was obtained from the Kaggle Walmart Sales Forecasting Competition.
 PURPOSE OF THE PROJECT
 The main aim of the project is to gain insight sales of Walmart  as well as to understand the different factors that affect the sales of Walmart’s.
 
-ABOUT DATA 
+**ABOUT DATA** 
 The data was obtained from the Kaggle Walmart Sales Forecasting Competition. This dataset contains sales transaction from three different branches of Walmart, respectively located in Mandalay, Yangon and Naypyitaw. The data contains 17 columns and 1000 rows. The data is  run through a SQL database for further analysis by creating data, manipulating and cleaning the data. 
-ANALYSIS
+**ANALYSIS**
 1.	PRODUCT ANALYSIS
 2.	SALES ANALYSIS
 3.	CUSTOMER ANALYSIS 
